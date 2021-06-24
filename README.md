@@ -15,3 +15,5 @@ The data Contains Features such as
 - Date
 - Label
 - Top 1-25 Headlines
+
+Please check the Jupyter Notebook for better understanding.
